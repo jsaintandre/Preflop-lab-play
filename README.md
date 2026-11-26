@@ -1,6 +1,6 @@
 # Preflop Lab
 
-Play it at https://jsaintandre.github.io/preflop-lab-play/
+Play it at https://jsaintandre.github.io/Preflop-lab-play/
 
 On an iPhone, open that link in Safari, tap Share, then Add to Home Screen, and always open Preflop Lab from that icon.
 
