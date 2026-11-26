@@ -1,0 +1,22 @@
+{
+  "name": "Preflop Lab",
+  "short_name": "Preflop Lab",
+  "description": "Poker trainer, practice table and Game night tools.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#E6ECE8",
+  "theme_color": "#E6ECE8",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
